@@ -2,7 +2,7 @@ bcn_timeout=20
 kso_enable=0
 mimo_bw_cap=1
 PM=0
-nv_by_chip=10 \
+nv_by_chip=11 \
 43362 0 nvram_ap6181.txt \
 43362 1 nvram_ap6210.txt \
 43430 0 nvram_ap6212.txt \
@@ -12,4 +12,5 @@ nv_by_chip=10 \
 17209 1 nvram_ap6335.txt \
 17238 2 nvram_ap6356.txt \
 17205 1 nvram_bcm4335.txt \
-43340 2 nvram_ap6234.txt
+43340 2 nvram_ap6234.txt \
+17241 9 nvram_ap6359sa.txt
