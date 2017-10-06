@@ -10,7 +10,7 @@ nv_by_chip=12 \
 17221 6 nvram_ap6255.txt \
 17200 4 nvram_ap6330.txt \
 17209 1 nvram_ap6335.txt \
-17238 2 nvram_ap6356.txt \
+17236 2 nvram_ap6356.txt \
 17205 1 nvram_bcm4335.txt \
 43340 2 nvram_ap6234.txt \
 17241 9 nvram_ap6359sa.txt \
