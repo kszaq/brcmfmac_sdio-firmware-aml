@@ -1,3 +1,4 @@
+ccode=GB
 bcn_timeout=20
 kso_enable=0
 mimo_bw_cap=1
